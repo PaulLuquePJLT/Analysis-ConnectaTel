@@ -1,4 +1,4 @@
-# Proyecto 7 — Análisis de una empresa de telecomunicaciones (ConnectaTel)
+# Proyecto 6 — Análisis de una empresa de telecomunicaciones (ConnectaTel)
 
 ## Objetivo del proyecto
 Analizar cómo los clientes usan los servicios móviles de **ConnectaTel** (llamadas y mensajes) en México y Colombia para:
